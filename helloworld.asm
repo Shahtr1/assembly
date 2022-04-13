@@ -18,7 +18,7 @@ print:
     mov ah, 0eh  
 ._loop:  
 
-    ; load 1 byte from si in al and increments by 1
+    ; load 1 byte from si in al and increments si by 1
     lodsb                                
     
     cmp al, 0
