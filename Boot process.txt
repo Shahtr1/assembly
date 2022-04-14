@@ -45,5 +45,9 @@ The BIOS is a Kernel in its self
 
 -	The BIOS routines are generic and a standard.
 
+----------------------------------------------------------------
+
+
+
 
 
