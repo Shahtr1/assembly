@@ -143,7 +143,3 @@ strCountDone:
 prtDone:
     pop rbx
     ret 
-
-; The output would be as follows:
-; Hello World.
-; Enter Answer:_
