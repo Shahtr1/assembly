@@ -77,7 +77,7 @@ _start:
     ; -----
     ; Display header line...
 
-    mov     rdi, header 
+    mov     rdi, header
     call     printString
 
     ; -----
